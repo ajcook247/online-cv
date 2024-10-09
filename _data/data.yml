@@ -13,25 +13,15 @@ sidebar:
     avatar: portrait.jfif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    email: ajc14654@gmail.com
+    phone: 865 438 9714
+    timezone: America/New York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: United States
+    website: https://ajcook247.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+    linkedin: https://www.linkedin.com/in/adam-cook-9b38291b9/
+    github: ajcook247
+    leetcode: ajc14654
+    pdf: "C:/Users/Adam/Desktop/online-cv/assets/ajc_resume_2024.pdf" # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -39,11 +29,8 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: German
+          level: Intermediate
 
     interests:
       title: Interests
