@@ -50,9 +50,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi, my name is Adam Cook. I am a software developer specializing in computer vision
-      and machine learning, with some experience in mechanical design and robotics as well.
-      
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
@@ -86,25 +89,28 @@ experiences:
         time: 2023 - 2024
         company: University of Tennessee, Knoxville
         details: |
-          I worked under Dr. Mongi Abidi at the IRIS Lab at UTK to update and improve
-          a GUI application develop in Python. This application is an analytical tool
-          the reported object detection results for various machine learning model for
-          images under visual augmentations (i.e. blur, noise, distortions, etc.) and also
-          automated generation of augmented image datasets. I integrated newer ML architectures
-          into the pipeline and compared detection findings between these new models and
-          previous existing ones. From there, I analyzed and catalogued the profieiency of these
-          models under image augmentation. My work with Dr. Abidi extended to a research project titled
-          "Fast Augmentation of Datasets using Augmentation" (see Projects).
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
       - role: Mechanical Designer
         time: 2017 - 2017
         company: GP Instruments
         details: |
-          I worked part-time at GP Instruments as a mechanical designer, using Alibre Design
-          to create drawings and various components for a pharmaceutical autosampler. These
-          drawings were transformed into proper schematics for later use. I also worked with a 
-          small team to design a mouthguard-like product that would be used to analytically treat
-          a swalloing disorder called dysphagia. We employed 3D printing, laser-cutting, and
-          stereolithography during designing and prototyping.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 #certifications:
 #      title: Certifications
@@ -137,7 +143,7 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DocuMint: Docstring Generation for Python using Small Language Models
+      - title: DocuMint
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -158,7 +164,7 @@ publications:
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "DocuMint: Docstring Generation for Python using Small Language Models"
+      - title: "DocuMint"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
