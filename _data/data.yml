@@ -86,28 +86,25 @@ experiences:
         time: 2023 - 2024
         company: University of Tennessee, Knoxville
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          I worked under Dr. Mongi Abidi at the IRIS Lab at UTK to update and improve
+          a GUI application develop in Python. This application is an analytical tool
+          the reported object detection results for various machine learning model for
+          images under visual augmentations (i.e. blur, noise, distortions, etc.) and also
+          automated generation of augmented image datasets. I integrated newer ML architectures
+          into the pipeline and compared detection findings between these new models and
+          previous existing ones. From there, I analyzed and catalogued the profieiency of these
+          models under image augmentation. My work with Dr. Abidi extended to a research project titled
+          "Fast Augmentation of Datasets using Augmentation" (see Projects).
       - role: Mechanical Designer
         time: 2017 - 2017
         company: GP Instruments
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I worked part-time at GP Instruments as a mechanical designer, using Alibre Design
+          to create drawings and various components for a pharmaceutical autosampler. These
+          drawings were transformed into proper schematics for later use. I also worked with a 
+          small team to design a mouthguard-like product that would be used to analytically treat
+          a swallowing disorder called dysphagia. We employed 3D printing, laser-cutting, and
+          stereolithography during designing and prototyping.
 
 #certifications:
 #      title: Certifications
