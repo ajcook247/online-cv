@@ -137,7 +137,7 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DocuMint: Docstring Generation for Python using Small Language Models
+      - title: DocuMint - Docstring Generation for Python using Small Language Models
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -158,7 +158,7 @@ publications:
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "DocuMint: Docstring Generation for Python using Small Language Models"
+      - title: "DocuMint - Docstring Generation for Python using Small Language Models"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
