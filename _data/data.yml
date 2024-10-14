@@ -128,7 +128,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: A sample of projects and research experiments that I have worked on or led.
       
     assignments:
       - title: Fast Simulation of Datasets using Augmentation
@@ -150,7 +150,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    intro: A sample of publications that I have written or taken part of.
       
     papers:
       - title: "Fast Simulation of Datasets using Augmentation"
