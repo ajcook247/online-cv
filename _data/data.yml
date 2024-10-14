@@ -135,15 +135,19 @@ projects:
     assignments:
       - title: Fast Simulation of Datasets using Augmentation
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Automated Python application that generates thousands of augmented images for machine learning training in object detection."
 
       - title: DocuMint - Docstring Generation for Python using Small Language Models
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Dataset compiled for fine-tuning small language models (SLMs) for code documentation (i.e. docstrings)."
 
       - title: Glowworm Swarm Optimization
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Experiment comparing the performance of glowworm swarm optimization (GSO) and ant colony optimization (ACO) for optima convergence."
+        
+      - title: Through My Eyes
+        link: "#"
+        tagline: "Directed small team to develop a VR simulation that represents the effects and sysmptoms of visual impairments."
 
 
 publications:
@@ -155,13 +159,13 @@ publications:
     papers:
       - title: "Fast Simulation of Datasets using Augmentation"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Cook, A.
+        conference: ""
 
       - title: "DocuMint - Docstring Generation for Python using Small Language Models"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        link: "https://arxiv.org/abs/2405.10243"
+        authors: Poudel, B., Cook, A., Traore, S., Ameli, S.
+        conference: ""
 
 skills:
     title: Skills &amp; Proficiency
